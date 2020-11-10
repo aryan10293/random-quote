@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "a_random_quote_generator-v1",
+			"path": "../../../../Downloads/a_random_quote_generator-v1"
+		},
+		{
+			"name": "random quote",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "random quote"
+	}
+}
